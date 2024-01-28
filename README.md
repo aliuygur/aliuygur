@@ -1,6 +1,6 @@
 # Hi there, I'm Ali :wave:
 
-I'm a self-taught passionate Software Developer over 12 years experience.
+I'm a self-taught passionate Software Developer over 15 years experience.
 
 I have strong experience in these technologies: Golang, PHP, Javascript, Vuejs, Docker, RESTful APIs, gRPC, HTTP/Caching, CI/CD Pipelines.
 
