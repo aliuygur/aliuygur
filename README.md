@@ -7,9 +7,9 @@ I have strong experience in these technologies: Golang, PHP, Javascript, Vuejs, 
 Also I have hands-on experience at Google Cloud Serverless(managed) services like Identity Platform, Cloud Run, Cloud Functions, Cloud Memorystore, Load Balancer, Cloud Tasks, Cloud Scheduler, Cloud Build and more.
 
 <p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api?username=alioygur&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="alioygur" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=aliuygur&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="aliuygur" />
 </p>
 
 <p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alioygur&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="alioygur" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliuygur&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="aliuygur" />
 </p>
