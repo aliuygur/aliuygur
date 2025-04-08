@@ -1,10 +1,12 @@
 # Hi there, I'm Ali :wave:
 
-I'm a self-taught passionate Software Developer over 15 years experience.
+I'm a self-taught, passionate Software Developer with over 15 years of experience.
 
-I have strong experience in these technologies: Golang, PHP, Javascript, Vuejs, Docker, RESTful APIs, gRPC, HTTP/Caching, CI/CD Pipelines.
+I love building things with technologies like Golang, PHP, JavaScript, Vue.js, Docker, and working with RESTful APIs, gRPC, HTTP and caching. I'm also into setting up smooth CI/CD pipelines that make life easier.
 
-Also I have hands-on experience at Google Cloud Serverless(managed) services like Identity Platform, Cloud Run, Cloud Functions, Cloud Memorystore, Load Balancer, Cloud Tasks, Cloud Scheduler, Cloud Build and more.
+Lately, I've been working a lot with Google Cloud's serverless (fully managed) services — including Identity Platform, Cloud Run, Cloud Functions, Cloud Memorystore, Load Balancer, Cloud Tasks, Cloud Scheduler, Cloud Build, and a bunch more.
+
+Always learning, always building.
 
 <p>
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=aliuygur&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="aliuygur" />
