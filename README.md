@@ -1,10 +1,8 @@
 # Hi there, I'm Ali :wave:
 
-I'm a self-taught, passionate Software Developer with over 15 years of experience.
+Dynamic Lead Software Engineer with over 15 years of experience driving innovation and efficiency in software development. 
 
-I love building things with technologies like Golang, PHP, JavaScript, Vue.js, Docker, and working with RESTful APIs, gRPC, HTTP and caching. I'm also into setting up smooth CI/CD pipelines that make life easier.
-
-Lately, I've been working a lot with Google Cloud's serverless (fully managed) services — including Identity Platform, Cloud Run, Cloud Functions, Cloud Memorystore, Load Balancer, Cloud Tasks, Cloud Scheduler, Cloud Build, and a bunch more.
+Expertise in modern technologies, including Golang, PHP, Docker, and Kubernetes, combined with a strong foundation in serverless architectures on Google Cloud. Proven ability to transform legacy systems into scalable solutions, enhancing performance and reliability. Committed to fostering collaborative environments that promote continuous improvement and agile practices. Passionate about leveraging technology to solve complex challenges and deliver impactful software solutions.
 
 Always learning, always building.
 
